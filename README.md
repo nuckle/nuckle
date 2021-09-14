@@ -6,3 +6,6 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-24292E?style=for-the-badge&logo=github&logoColor=white)
 
+## Currently learning
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
