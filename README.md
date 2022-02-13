@@ -7,8 +7,9 @@ I'm a frontend developer
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-24292E?style=for-the-badge&logo=github&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![GitHub](https://img.shields.io/badge/-Git-24292E?style=for-the-badge&logo=git&logoColor=white)
+
 
 ![](https://img.shields.io/badge/Editor-VScodium-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=5194f0)
 
