@@ -1,2 +1,2 @@
 ### Stack & Tools 🔧
-![](https://skillicons.dev/icons?i=html,css,sass,js,py,linux,git,latex,neovim)
+![](https://skillicons.dev/icons?i=linux,html,css,sass,js,py,git,latex,neovim,docker,vite)
